@@ -1,0 +1,11 @@
+--ignore-file=ext:lst
+--ignore-dir=doxygen
+--type=cc
+--type=csharp
+--type-add=asm51:ext:a51,A51
+--type-add=plm51:ext:p51,P51
+--type=asm51
+--type=plm51
+--color
+--smart-case
+
